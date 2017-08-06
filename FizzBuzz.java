@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 public class FizzBuzz {
-    ArrayList<Integer> divider = new ArrayList<Integer>();
+        ArrayList<Integer> divider = new ArrayList<Integer>();
 	ArrayList<String> outputs = new ArrayList<String>();
 	
 	
